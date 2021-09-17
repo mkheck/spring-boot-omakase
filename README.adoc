@@ -1,4 +1,4 @@
-= Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II
+= Spring Boot Omakase: Scalability and Deployability Edition, Mark II
 
 == Maintainer
 
@@ -8,7 +8,7 @@
 
 == Purpose
 
-This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II"* and includes all code written within the session and potentially more (depending upon how much I could cover before time ran out!).
+This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability and Deployability Edition, Mark II"* and includes all code written within the session and potentially more (depending upon how much I could cover before time ran out!).
 
 *_Star+watch this repo for updates!_*
 
@@ -21,4 +21,4 @@ This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability 
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/spring-boot-omakase["Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II" presentation]
+https://speakerdeck.com/mkheck/spring-boot-omakase["Spring Boot Omakase: Scalability and Deployability Edition, Mark II" presentation]
