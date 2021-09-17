@@ -21,4 +21,4 @@ This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability 
 
 == Related presentation
 
-link:https://speakerdeck.com/mkheck/spring-boot-omakase-scalability-and-deployability-edition-mark-ii["Spring Boot Omakase: Scalability and Deployability Edition, Mark II" presentation]
+link:https://speakerdeck.com/mkheck/spring-boot-omakase-scalability-and-deployability-edition-mark-ii[Spring Boot Omakase: Scalability and Deployability Edition, Mark II]
