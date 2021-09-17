@@ -1,0 +1,24 @@
+= Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II"* and includes all code written within the session and potentially more (depending upon how much I could cover before time ran out!).
+
+*_Star+watch this repo for updates!_*
+
+== Component repositories
+
+* link:https://github.com/mkheck/planefinder[PlaneFinder]
+* link:https://github.com/mkheck/flywx[FlyWx]
+* link:https://github.com/mkheck/thing1[Thing1]
+* link:https://github.com/mkheck/thing2[Thing2]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/spring-boot-omakase["Spring Boot Omakase: Scalability and Deployabiliy Edition, Mark II" presentation]
