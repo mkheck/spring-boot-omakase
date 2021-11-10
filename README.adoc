@@ -16,8 +16,8 @@ This meta-repo accompanies my session titled *"Spring Boot Omakase: Scalability 
 
 * link:https://github.com/mkheck/planefinder[PlaneFinder]
 * link:https://github.com/mkheck/flywx[FlyWx]
-* link:https://github.com/mkheck/thing1[Thing1]
-* link:https://github.com/mkheck/thing2[Thing2]
+* link:https://github.com/mkheck/omakase-thing1[Thing1]
+* link:https://github.com/mkheck/omakase-thing2[Thing2]
 
 == Related presentation
 
